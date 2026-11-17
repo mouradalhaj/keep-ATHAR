@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icons/icon-512-rounded.png" width="96" alt="أَثَر">
+<img src="icon-512-rounded.png" width="96" alt="أَثَر">
 
 # أَثَر · ATHAR
 **سِجِلّك اليومي للحركة والصحّة والمهام — يعمل دون إنترنت، ويحفظ كل شيء على جهازك.**
