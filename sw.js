@@ -1,7 +1,7 @@
 /* أَثَر — عامل خدمة بسيط: يجعل التطبيق يعمل بلا إنترنت بعد أول زيارة.
    استراتيجية: الشبكة أولًا للصفحة (لتصل التحديثات من GitHub Pages فورًا)،
    وكاش احتياطي عند انقطاع الشبكة. لا يخزّن أي بيانات مستخدم — البيانات في localStorage. */
-const CACHE = 'athar-v2';
+const CACHE = 'athar-v3';
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './icons/favicon.png', './icons/icon-180.png',
